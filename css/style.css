@@ -10,11 +10,12 @@ header{
     background-repeat: no-repeat;
     background-size:cover;
     min-height:360px;
-    transition: all 1s ease-in-out;
+   /* transition: all 1s ease-in-out;
     -moz-transition: all 1s ease-in-out;
     -webkit-transition: all 1s ease-in-out;
+    */
 }
-
+/*
 .vit-c{
     background: url("../images/hyaluronics.jpg");
     background-position: center;
@@ -22,4 +23,17 @@ header{
     background-size: cover;
     min-height:300px;
     
+}
+
+.vit-e{
+    background: url("../images/vitamin-e.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+max-width:100%;
+}
+*/
+
+.brand-name{
+font: Roboto;
 }
