@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+header{
+    margin:0;
+}
+
+.navbar-brand{
+  font-family: Lobster;
+}
+
+.card{
+  width:100vw;
+  padding:20px;
+}
+
+#body-container{
+  padding:20px;
+}
+
+.btn-success{
+  border-radius: 50px;
+}
+
+/*navbar*/
+.navbar{
+background-color:  #b4e4c5;
+}
+
+#navbar{
+  background-color: #b4e4c5;
+}
+
+#dropdown-menu{
+background-color:#90b582;
+}
+
+/*footer*/
+#footer{
+  background-color:#90b582;
+}
+
+#subscribe{
+  border-radius: 50px;
+}

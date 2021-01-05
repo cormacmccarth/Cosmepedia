@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
-
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 html,body
 {
     width: 100%;
@@ -13,6 +13,11 @@ header{
     margin:0;
 }
 
+.navbar-brand{
+font-family:Lobster;
+}
+
+
 .main-image{
     background: url("../images/soaps.jpg");
     background-position:center;
@@ -20,41 +25,84 @@ header{
     background-size:cover;
     min-height: 100vh;
     min-width:360px;
-    
-    
-    
-   /* transition: all 1s ease-in-out;
-    -moz-transition: all 1s ease-in-out;
-    -webkit-transition: all 1s ease-in-out;
-    */
-}
-/*
-.vit-c{
-    background: url("../images/hyaluronics.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height:300px;
-    
-}
+    background-attachment: fixed;
+  }
 
-.vit-c-text{
+    .inner{
+
     text-align: center;
 }
 
-.vit-e{
-    background: url("../images/vitamin-e.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-max-width:100%;
+.btn-success{
+  border-radius: 50px;
 }
-*/
 
-.brand-name{
-font: Roboto;
+
+/*navbar*/
+.navbar{
+background-color:  #b4e4c5;
+}
+
+#navbar{
+  background-color: #b4e4c5;
+}
+
+#dropdown-menu{
+background-color:#90b582;
+}
+
+
+.scroll{
+color:  #b4e4c5;
+font-size: xx-large;
+}
+
+.scroll:hover{
+color: magenta;
+}
+
+
+/*Accordion*/
+
+#accordionFlushExample{
+  background-color:#b4e4c5;
+
+}
+
+#red-list:hover{
+  background-color:red;
+}
+#red-list:focus{
+  background-color:crimson;
+}
+#red-list:active{
+  background-color:maroon;
+}
+
+#amber-list:hover{
+  background-color:orange;
+}
+#amber-list:focus{
+  background-color:darkorange;
+}
+#amber-list:active{
+  background-color:orangered
+}
+
+#green-list:hover{
+  background-color:green;
+}
+#green-list:focus{
+  background-color:darkgreen;
+}
+#green-list:active{
+  background-color:seagreen;
 }
 
 .icons{
     text-align:center;
+}
+
+#footer{
+  background-color:#90b582;
 }
