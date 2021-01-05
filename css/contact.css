@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+header{
+    margin:0;
+}
+
+.navbar-brand{
+font-family:Lobster;
+}
+
+
+
+.btn-success{
+  border-radius: 50px;
+}
+
+
+.submit-btn{
+  margin: 100px;
+}
+
+.header {
+        color: #90b582;
+        font-size: 30px;
+        padding: 20px;
+    }
+
+.enlarge {
+        font-size: 30px;
+        color: #90b582;
+        padding:10px 10px 0px 0px;
+    }
+
+/*navbar*/
+.navbar{
+background-color:  #b4e4c5;
+}
+
+#navbar{
+  background-color: #b4e4c5;
+}
+
+#dropdown-menu{
+background-color:#90b582;
+}
+
+
+.contact-form{
+  height:100vh;
+}
+
+#footer{
+  background-color:#90b582;
+}
