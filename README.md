@@ -61,3 +61,29 @@ The following CSS files are accessed by the corresponding HTML files;
 * face.css - accessed by face.html
 * body.css - accessed by body.html
 * contact.css - accessed by contact.html
+
+## Procedure
+
+### Navbar
+I started the project by attempting to construct a customized navigation bar from a bootstrap template.
+I customized the bar by altering the color, font and navigation links to conform to my aesthetic.
+
+### Footer
+After completing the navbar to my satisfaction, I decided that the best course of action was to frame the page by adding a footer.
+I dabbled with a footer that included social media links, but opted for one with a simple newsletter signup instead. This decision was made because I did not like the idea of having social media links that did not link to anything.
+
+### Homepage
+I decided to keep the homepage simple and clean. I thought that this aesthetic was consistent with the ethos of the site. I did not want to clutter up the landing page with too many items. I felst that keeping the navigation as the main point of interaction was the simplest way to coax the user to make a selection.
+
+### Face care page
+For the face care page I opted, again, for a clean and simple aesthetic; unclutered and unencumbered.
+
+### Body care and hair care pages
+As with the face care page, I decided to continue with the same parameters so as to ensure that the browsing experience would be uniform and intuitive for the user.
+
+### Contact page
+For the contact page I simply constructed a rudimentary form and used CSS and fontawesome Icons to style it.
+
+### Challenges encountered
+My biggest problem was trying to eliminate white space on the right of the display in the initial stages of the project. I remedied this by playing around with the CSS file until I achieved a satisfactory result.
+Using the Bootstrap grid system really made the whole process much simpler for acheiving a responsive design.
