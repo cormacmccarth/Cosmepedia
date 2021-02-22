@@ -99,6 +99,27 @@ color: magenta;
   background-color:seagreen;
 }
 
+#red-label{
+    color:black;
+}
+#red-label:hover{
+    color:white;
+}
+
+#amber-label{
+    color:black;
+}
+#amber-label:hover{
+    color:white;
+}
+
+#green-label{
+    color:black;
+}
+#green-label:hover{
+    color:white;
+}
+
 .icons{
     text-align:center;
 }
