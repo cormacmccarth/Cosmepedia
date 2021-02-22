@@ -9,6 +9,11 @@ Categories included for ease of navigation are as follows:
 * Hair care
 * Body care
 
+## Wireframes
+
+![wireframes](https://user-images.githubusercontent.com/71509357/108652799-e6d00c00-74bc-11eb-8450-9771b66eddeb.png)
+
+
 ## Technologies used
 
 * HTML5
