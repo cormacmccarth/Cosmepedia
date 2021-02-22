@@ -9,7 +9,7 @@ Categories included for ease of navigation are as follows:
 * Hair care
 * Body care
 
-## Techniologies used
+## Technologies used
 
 * HTML5
 * CSS
