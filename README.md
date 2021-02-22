@@ -42,3 +42,22 @@ The following combinations of browsers and devices were used for testing;
 * Opera
 * Brave
 
+## Project content
+
+* Home/Landing page - index.html
+* Face care page - face.html
+* Body care page - body.html
+* Hair care page - hair.html
+* Contact page - contact.html
+
+## CSS and media file management
+
+Each HTML file was assigned it's own corresponding CSS file in order to facilitate easy access and maintenance.
+
+The following CSS files are accessed by the corresponding HTML files;
+
+* style.css - accessed by index.html
+* body.css - accessed by body.html
+* face.css - accessed by face.html
+* body.css - accessed by body.html
+* contact.css - accessed by contact.html
