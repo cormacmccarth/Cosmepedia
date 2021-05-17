@@ -26,6 +26,7 @@ font-family:Lobster;
     min-height: 100vh;
     min-width:360px;
     background-attachment: fixed;
+    position: relative;
   }
 
     .inner{
@@ -135,4 +136,13 @@ color: magenta;
 
 #footer{
   background-color:#90b582;
+}
+
+#about{
+    background-color: transparent;
+    border: none;
+    color: white;
+    position: absolute;
+    top: 100px;
+    right: 100px;
 }
