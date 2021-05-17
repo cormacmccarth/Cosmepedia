@@ -150,3 +150,7 @@ color: magenta;
 .card-link{
     color: #90b582;
 }
+
+.cover-heading, h2{
+    color: white;
+}
