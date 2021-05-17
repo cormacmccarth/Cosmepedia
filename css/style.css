@@ -19,7 +19,7 @@ font-family:Lobster;
 
 
 .main-image{
-    background: url("../images/soaps.jpg");
+    background: url("../images/leaf-three.jpg");
     background-position:center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -61,6 +61,15 @@ font-size: xx-large;
 color: magenta;
 }
 
+#cards{
+    background: url("../images/leaf-two.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-height: 100vh;
+    min-width:360px;
+    background-attachment: fixed;
+  }
 
 /*Accordion*/
 
