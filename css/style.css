@@ -20,11 +20,11 @@ font-family:Lobster;
 
 .main-image{
     background: url("../images/leaf-three.jpg");
-    background-position:center;
+    background-position: initial;
     background-repeat: no-repeat;
     background-size:cover;
-    min-height: 100vh;
-    min-width:360px;
+    width: 100%;
+    height:100vh;
     background-attachment: fixed;
     position: relative;
   }
