@@ -19,7 +19,7 @@ font-family:Lobster;
 
 
 .main-image{
-    background: url("../images/leaf-three.jpg");
+    background: url("../images/leaf-beauty.jpg");
     background-position: initial;
     background-repeat: no-repeat;
     background-size:cover;
@@ -63,7 +63,7 @@ color: magenta;
 }
 
 #cards{
-    background: url("../images/leaf-four.jpg");
+    background: url("../images/leaf-beauty-two.jpg");
     background-position:initial;
     background-repeat: no-repeat;
     background-size:cover;
