@@ -86,13 +86,14 @@ color: magenta;
     border: none;
     color: white;
     position: absolute;
-    top: 100px;
-    right: 100px;
-    padding: 20px 20px 20px 20px;
+    top: 75px;
+    right: 75px;
+    padding: 20px;
 }
 
 .card-link{
-    color: #90b582;
+  color: #b4e4c5;
+
 }
 
 .cover-heading, h2{
