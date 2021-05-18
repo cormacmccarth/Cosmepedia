@@ -72,63 +72,6 @@ color: magenta;
     background-attachment: fixed;
   }
 
-/*Accordion*/
-
-#accordionFlushExample{
-  background-color:#b4e4c5;
-
-}
-
-#red-list:hover{
-  background-color:red;
-}
-#red-list:focus{
-  background-color:crimson;
-}
-#red-list:active{
-  background-color:maroon;
-}
-
-#amber-list:hover{
-  background-color:orange;
-}
-#amber-list:focus{
-  background-color:darkorange;
-}
-#amber-list:active{
-  background-color:orangered
-}
-
-#green-list:hover{
-  background-color:green;
-}
-#green-list:focus{
-  background-color:darkgreen;
-}
-#green-list:active{
-  background-color:seagreen;
-}
-
-#red-label{
-    color:black;
-}
-#red-label:hover{
-    color:white;
-}
-
-#amber-label{
-    color:black;
-}
-#amber-label:hover{
-    color:white;
-}
-
-#green-label{
-    color:black;
-}
-#green-label:hover{
-    color:white;
-}
 
 .icons{
     text-align:center;
