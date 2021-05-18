@@ -64,7 +64,7 @@ color: magenta;
 
 #cards{
     background: url("../images/leaf-four.jpg");
-    background-position:center;
+    background-position:initial;
     background-repeat: no-repeat;
     background-size:cover;
     min-height: 100vh;
