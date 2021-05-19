@@ -85,10 +85,11 @@ color: magenta;
     background-color: transparent;
     border: none;
     color: white;
-    position: absolute;
+    position: inherit;
     top: 75px;
     right: 75px;
     padding: 20px;
+    float: right;
 }
 
 .card-link{
