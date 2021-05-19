@@ -52,16 +52,6 @@ background-color:  #b4e4c5;
 background-color:#90b582;
 }
 
-
-.scroll{
-color:  #b4e4c5;
-font-size: xx-large;
-}
-
-.scroll:hover{
-color: magenta;
-}
-
 #cards{
     background: url("../images/leaf-beauty-two.jpg");
     background-position:initial;
@@ -72,10 +62,6 @@ color: magenta;
     background-attachment: fixed;
   }
 
-
-.icons{
-    text-align:center;
-}
 
 #footer{
   background-color:#90b582;
