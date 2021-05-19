@@ -101,5 +101,7 @@ color: magenta;
 }
 
 .card{
-    background-color: #b4e4c5;
+    background-color: transparent;
+    border: none;
+    color: white;
 }
