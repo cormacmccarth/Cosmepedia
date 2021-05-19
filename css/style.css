@@ -60,6 +60,7 @@ background-color:#90b582;
     min-height: 100vh;
     min-width:360px;
     background-attachment: fixed;
+    position:relative;
   }
 
 
