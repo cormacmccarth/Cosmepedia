@@ -167,6 +167,9 @@ For the contact page I simply constructed a rudimentary form and used CSS and fo
 My biggest problem was trying to eliminate white space on the right of the display in the initial stages of the project. I remedied this by playing around with the CSS file until I achieved a satisfactory result.
 Using the Bootstrap grid system really made the whole process much simpler for acheiving a responsive design.
 
+### Media
+Shutterstock was used to acquire images.
+
 ### Known Bugs
 
 -   On some mobile devices the full-color homepage image becomes distorted.
