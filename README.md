@@ -11,6 +11,32 @@ Categories included for ease of navigation are as follows:
 * Hair care
 * Body care
 
+## User Experience (UX)
+
+-   ### User stories
+
+    -   #### First Time Visitor Goals
+
+        1. As a First Time Visitor, I want to easily understand what the website is offering.
+        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+
+    -   #### Returning Visitor Goals
+
+        1. As a Returning Visitor, I want to be able to easily find products that I like.
+        2. As a Returning Visitor, I want to subscribe to the newsletter and contact the site owner.
+
+    -   #### Frequent User Goals
+        1. As a Frequent User, I want to make repeat purchases.
+        2. As a Frequent User, I want to check to see if there are any new products that I might like.
+
+-   ### Design
+    -   #### Colour Scheme
+        -   Greens, whites and greys.
+    -   #### Typography
+        -   To create the appropriate aesthetic, the Lobster and Roboto fonts were used.
+    -   #### Imagery
+        -   The large, background hero image is designed to convey a sense of natural beauty.
+
 ## Wireframes
 
 ![wireframes-2](https://user-images.githubusercontent.com/71509357/118900333-94aa5580-b908-11eb-9666-c3145ed65e1b.png)
@@ -33,6 +59,7 @@ Categories included for ease of navigation are as follows:
 ## Project testing
 
 The project was tested on various browsers and devices to ensure that all pages were fully responsive and that all functionality behaved as anticipated.
+HTML validator and Jigsaw validator were used to test each page of the project.
 The following combinations of browsers and devices were used for testing;
 
 ### Devices
@@ -49,6 +76,11 @@ The following combinations of browsers and devices were used for testing;
 * Safari
 * Opera
 * Brave
+
+Lighthouse was used to check performance. The results are shown below;
+
+![lighthouse-results](https://user-images.githubusercontent.com/71509357/118901450-37fc6a00-b90b-11eb-9fce-eb86aa48ff14.png)
+
 
 ## Project content
 
@@ -69,6 +101,43 @@ The following CSS files are accessed by the corresponding HTML files;
 * face.css - accessed by face.html
 * body.css - accessed by body.html
 * contact.css - accessed by contact.html
+
+### Testing User Stories from User Experience (UX) Section
+
+-   #### First Time Visitor Goals
+
+    1. As a First Time Visitor, I want to easily understand what the website is offering.
+
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero            Image and a text section with a prompt to find out more.
+        2. The user is encouraged to press the 'transform my skin' button which will transform the hero image from grey to full color.
+        3. The user will then be presented with three options to navigate to skin, body or hair care.
+
+    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+
+        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar with each link clearly marked.
+        2. On each page the user can easily navigate to the homepage or another section of the website.
+
+
+-   #### Returning Visitor Goals
+
+    1. As a Returning Visitor, I want to be able to easily find products that I like.
+
+        1. Product types are clearly displayed in the navigation.
+
+    2. As a Returning Visitor, I want to subscribe to the newsletter and contact the site owner.
+
+        1. The footer on every page contains a newsletter subscription area.
+        2. There is also a dedicated contact page where the user can submit their contact details and a message.
+
+-   #### Frequent User Goals
+
+    1. As a Frequent User, I want to make repeat purchases.
+
+        1. The user can easily navigate to the product area of their choice and proceed to make a purchase.
+
+    2. As a Frequent User,  I want to check to see if there are any new products that I might like.
+
+        1. The user would be familiar with the website layout and content; it should be easy for the user to find newly added products on each page.
 
 ## Procedure
 
