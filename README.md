@@ -11,7 +11,8 @@ Categories included for ease of navigation are as follows:
 
 ## Wireframes
 
-![wireframes](https://user-images.githubusercontent.com/71509357/108652799-e6d00c00-74bc-11eb-8450-9771b66eddeb.png)
+![wireframes-2](https://user-images.githubusercontent.com/71509357/118900333-94aa5580-b908-11eb-9666-c3145ed65e1b.png)
+
 
 
 ## Technologies used
