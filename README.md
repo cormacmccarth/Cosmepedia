@@ -1,3 +1,5 @@
+<h1 align="center">Cosmepedia</h1>
+
 ## Introduction
 
 The purpose of this project is to provide the user with a platform for browsing and, ultimately purchasing high quality personal care products.
